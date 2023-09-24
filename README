@@ -1,6 +1,4 @@
-This repository contains [Jupyter](http://jupyter.org/) notebooks that demonstrate the use of my `ipy_magics` modules ([GitLab](https://gitlab.com/ldo/ipy_magics), [BitBucket](https://bitbucket.org/ldo17/ipy_magics)). You will need them installed somewhere in order to run these notebooks; at the beginning of each notebook is a cell containing `%run` commands that may need to be edited with the right paths to find the modules. Alternatively, if you copy or symlink them to the right place, these commands can be invoked as is.
-
-Copyright 2019 by Lawrence D'Oliveiro <ldo@geek-central.gen.nz>. These notebooks are licensed [CC0](https://creativecommons.org/publicdomain/zero/1.0/); do with them what you will.
-
-Lawrence D'Oliveiro <ldo@geek-central.gen.nz>
-2023 September 24
+This project is no longer being maintained on GitHub.
+Look for it at one of
+* gitlab: https://gitlab.com/ldo/ipy_magics_examples
+* bitbucket: https://bitbucket.org/ldo17/ipy_magics_examples
